@@ -1,2 +1,3 @@
-# celestial-bodies-database
+# Celestial Bodies Database
+
 freeCodeCamp PostgreSQL module
